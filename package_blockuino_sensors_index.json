@@ -1,0 +1,29 @@
+{
+  "packages": [
+    {
+      "name": "Blockuino Sensors",
+      "maintainer": "Joachim Haagen Skeie",
+      "websiteURL": "https://github.com/joachimhs/BlockuinoSensors",
+      "email": "joachim@skaperiet.no",
+      "help": {
+        "online": "https://github.com/joachimhs/BlockuinoSensors/issues"
+      },
+      "platforms": [],
+      "tools": [],
+      "libraries": [
+        {
+          "name": "BlockuinoSensors",
+          "version": "0.5.0",
+          "author": "Joachim Haagen Skeie",
+          "maintainer": "Joachim Haagen Skeie <joachim@skaperiet.no>",
+          "sentence": "An Arduino Library for making reading from analog and digital sensors easier in Blockuino",
+          "paragraph": "An Arduino Library for making reading from analog and digital sensors easier in Blockuino",
+          "category": "Sensors",
+          "url": "https://github.com/joachimhs/BlockuinoSensors/archive/refs/tags/v0.5.0.zip",
+          "architectures": ["*"],
+          "types": ["Contributed"]
+        }
+      ]
+    }
+  ]
+}
