@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "Blockuino Sensors",
+      "name": "BlockuinoSensors",
       "maintainer": "Joachim Haagen Skeie",
       "websiteURL": "https://github.com/joachimhs/BlockuinoSensors",
       "email": "joachim@skaperiet.no",
